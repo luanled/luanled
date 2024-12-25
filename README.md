@@ -5,4 +5,4 @@
 - 💻 Tech stack: Python, Java, JavaScript, Node.js, React.js, Next.js, MySQL, MongoDB, Docker, REST APIs
 - ⚡ Scrum practitioner with strong attention to detail and enthusiasm for technology
 - 📫 Reach me at: ledinhluan1997@gmail.com
-- 🔗 LinkedIn: [Luan D. Le](https://www.linkedin.com/in/luan-d-le)
+- 🔗 LinkedIn: [Luan (Lucas) Le](https://www.linkedin.com/in/luan-d-le)
