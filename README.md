@@ -9,7 +9,7 @@
 
 ### Experience
 - 🔹 Integration Analyst at [Multi:IT A/S](https://multi-it.dk/cms/) - Working on [TruckPlanner](https://truckplanner.com/en/truck-fleet-management/)
-- 🔹 Software Developer at [DXC Technology](https://dxc.com/us/en)  
+- 🔹 Software Developer - ServiceNow Platform at [DXC Technology](https://dxc.com/us/en)  
 - 🔹 Software Development Intern at [Kyanon Digital](https://kyanon.digital/)
 
 ### Contact
