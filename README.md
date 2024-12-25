@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Luan (Lucas) 😄
+## Hi there 👋 I'm Luan Le (Lucas) 😄
 
 ### About Me
 - 📍  Based in Bay Area, CA 
