@@ -3,9 +3,8 @@
 ### About Me
 - 🏚️ Based in Bay Area, CA 
 - 🌱 Pursuing a Master's degree in Software Engineering at San Jose State University
-- 💼 Experience as Developer, Consultant, Business Analyst and Integration Specialist
+- 💼 Experience as Developer, Consultant, and Integration Analyst
 - 💻 Tech stack: Java, JavaScript, Python, Node.js, React.js, Vue.js, Next.js, MySQL, MongoDB, Docker, REST APIs
-- ⚡ Scrum practitioner with strong attention to detail and enthusiasm for technology
 
 ### Contact
 - 📫 Email: ledinhluan1997@gmail.com
