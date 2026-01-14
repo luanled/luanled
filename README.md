@@ -1,10 +1,10 @@
-## Hi there 👋 I'm Luan Le (Lucas) 😄
+## Hi, I'm Luan Le (Lucas) 
 
 ### About Me
-- 🏚️ Based in Bay Area, CA 
-- 🌱 Pursuing a Master's degree in Software Engineering at San Jose State University
-- 💼 Experience as Developer, Consultant, and Integration Analyst
-- 💻 Tech stack: Java, JavaScript, Python, Node.js, React.js, Vue.js, Next.js, MySQL, MongoDB, Docker, REST APIs
+- Based in Bay Area, CA 
+- Master's degree in Software Engineering at San Jose State University
+- Experience as Developer, Consultant, and Integration Analyst
+- Tech stack: Java, JavaScript, Python, Node.js, React.js, Vue.js, Next.js, MySQL, MongoDB, Docker, REST APIs
 
 ### Contact
 - 📫 Email: ledinhluan1997@gmail.com
